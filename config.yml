@@ -1,0 +1,15 @@
+#                                                            **********************************
+#                                                             * Project: The Floor Is Lava   
+#                                                             * Programmer: Benjamin
+#                                                             * Date: April 15, 2021
+#                                                             * Program: config.yml
+#                                                            **********************************       
+isGameActive: false                     
+isPreGameActive: false
+isInitialLoad: false
+activeGameHandlerInstance: false
+gameInstances: 1
+round: 0
+pos1: 0
+pos2: 0
+players: {}

@@ -1,0 +1,10 @@
+main: com.benjamin.project.Main
+name: The_Floor_Is_Lava
+description: The Floor Is Lava Minigame in minecraft!
+version: 1.0
+api-version: 1.16
+commands:
+  minigame:
+    aliases: [mg, mini-game]  
+    description: Core Minigame Command
+
